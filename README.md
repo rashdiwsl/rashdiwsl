@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rashmi-rathnayaka2001/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apphttps://linkedin.com/in/rashdiwsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashdiwsl" height="30" width="40" /></a>
-<a href="[https://fb.com/mandeepa de silva](https://web.facebook.com/profile.php?id=100078176471129&rdid=HPYjvklX2wFdw85s&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2F1XncB4TcXb%2F%3F_rdc%3D1%26_rdr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashdiwsl" height="30" width="40" /></a>
-<a href="[https://instagram.com/_mandeepa_de_silva_](https://www.instagram.com/rashmi_diw/?igsh=dXdoY3hqcXNjYWUx)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashdiwsl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1XncB4TcXb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashdiwsl" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rashmi_diw?igsh=dXdoY3hqcXNjYWUx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashdiwsl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
