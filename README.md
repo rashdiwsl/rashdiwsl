@@ -55,7 +55,7 @@
 
 
 
-> “Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty.”**☕💫
+> “Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty.”☕💫
 
 
 
