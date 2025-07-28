@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Springboot**
 
-- 💬 Ask me about **Java**,**Potman**
+- 💬 Ask me about **Java**,**Postman**
 
 - 📫 How to reach me **bhagyarash2001@gmail.com**
   
