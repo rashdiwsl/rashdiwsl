@@ -37,7 +37,7 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 
 <h3 style="color:#39FF14;">Programming Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,r" />
   <img src="https://img.shields.io/badge/Prolog-339933?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge" />
 </p>
