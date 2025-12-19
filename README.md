@@ -29,8 +29,10 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c++,html,css,javascript,mysql,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,r" />
   <img src="https://img.shields.io/badge/Prolog-339933?style=for-the-badge&logo=prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+
 </p>
 
 <h3 align="left">Frameworks & Libraries:</h3>
@@ -42,6 +44,9 @@
 <h3 align="left">Tools & Platforms:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,kaggle,vscode,idea,aws" />
+  <img src="https://img.shields.io/badge/Code::Blocks-0099FF?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-FC7C2A?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20PT-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 <h3 align="left">UI/UX & Design Tools:</h3>
