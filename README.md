@@ -15,13 +15,13 @@
 Status: ██████████ 100% Coding
 </pre>
 
-### 🧠 About Me
-- 🌱 Currently learning **React & Spring Boot**
-- 💬 Ask me about **Java, Postman**
-- 📫 Reach me at **bhagyarash2001@gmail.com**
-- ⚡ Fun fact: I love blending technology and art, and I never get bored staying home 💜
-
----
+<h3 style="color:#39FF14;">🧠 About Me</h3>
+<pre style="background:#0D1117; color:#A9FF9C; padding:12px; border-radius:12px;">
+Currently learning: React & Spring Boot
+Ask me about: Java, Postman
+Email: bhagyarash2001@gmail.com
+Fun fact: I love blending technology and art, and I never get bored staying home
+</pre>
 
 <h3 style="color:#39FF14;">🔗 Connect with me</h3>
 <p align="left">
@@ -65,5 +65,5 @@ Status: ██████████ 100% Coding
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiwsl&theme=github-dark&hide_border=true" />
 </p>
-
+> “Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty.”☕💫
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" />
