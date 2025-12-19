@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashmi+Rathnayke(RR);Full-Stack+Developer;Learning+By+Doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashmi+Rathnayake(RR);Full-Stack+Developer;Learning+By+Doing" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
@@ -19,14 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rashdiwsl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashdiwsl" height="30" width="40" />
+   <a href="https://linkedin.com/in/rashdiwsl" target="_blank" rel="noopener">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right:10px;" />
   </a>
-  <a href="https://facebook.com/rashdiwsl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashdiwsl" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/rashmi_diw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashdiwsl" height="30" width="40" />
+  <a href="https://www.instagram.com/rashmi_diw" target="_blank" rel="noopener">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin-right:10px;" />
   </a>
 </p>
 
