@@ -18,7 +18,7 @@ Status: ██████████ 100% Coding
 <h3 style="color:#39FF14;">About Me</h3>
 <pre style="background:#0D1117; color:#A9FF9C; padding:12px; border-radius:12px;">
 Currently learning: React & Spring Boot
-Ask me about: Java, Postman
+Ask me about: Java
 Email: bhagyarash2001@gmail.com
 Fun fact: I love blending technology and art, and I never get bored staying home
 </pre>
