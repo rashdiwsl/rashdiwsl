@@ -41,6 +41,10 @@ Fun fact: I love blending technology and art, and I never get bored staying home
   <img src="https://img.shields.io/badge/Prolog-339933?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge" />
 </p>
+<h3 style="color:#39FF14;">Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 <h3 style="color:#39FF14;">Frameworks & Libraries</h3>
 <p>
