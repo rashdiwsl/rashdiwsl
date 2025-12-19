@@ -65,5 +65,9 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiwsl&theme=github-dark&hide_border=true" />
 </p>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; color:#FFD700;">
+  Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty. ☕💫
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer&animation=glitch&fontColor=FFFFFF&fontSize=18&" />
