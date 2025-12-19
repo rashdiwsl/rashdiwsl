@@ -65,5 +65,7 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiwsl&theme=github-dark&hide_border=true" />
 </p>
-> “Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty.”☕💫
+<pre style="background-color:#0D1117; color:#39FF14; padding:12px; border-radius:12px; font-family:JetBrains Mono; font-size:14px; text-align:center;">
+[root@rashmi ~]$ echo "Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty."
+</pre>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" />
