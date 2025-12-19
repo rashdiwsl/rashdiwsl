@@ -1,69 +1,64 @@
-<!-- TERMINAL BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=39FF14&center=true&vCenter=true&width=780&lines=%5Broot%40rashmi+~%5D%24+whoami;Rashmi+Rathnayake+(RR);Full-Stack+Developer;Cyber+%26+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=%5Broot%40rashmi+~%5D%24+whoami;Rashmi+Rathnayake+(RR);Full-Stack+Developer;Learning+By+Doing" />
 </div>
 
-<!-- SYSTEM INFO -->
-<pre style="background-color:#000000; color:#39FF14; padding:14px; border-radius:10px; font-family:JetBrains Mono;">
-OS: GitHub Linux x86_64
-Host: rashdiwsl
-Kernel: 6.1.0-hacker
-Uptime: ∞
-Shell: bash
-Editor: VS Code
-Languages: Java, Python, C++, JS
+<h3 align="center" style="color:#39FF14;">
+  A passionate and result-driven full-stack developer
+</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rashdiwsl&label=Profile%20views&color=39FF14&style=flat" />
+</p>
+
+<pre style="color:#39FF14; background-color:#0D1117; padding:12px; border-radius:8px;">
+[root@rashmi ~]$ echo "Code. Create. Hack the limits."
 Status: ██████████ 100% Coding
 </pre>
 
-<!-- ABOUT -->
-<h3 style="color:#39FF14;">$ cat about.txt</h3>
-<pre style="background-color:#000000; color:#A9FF9C; padding:12px; border-radius:10px;">
-Name: Rashmi Rathnayake (RR)
-Role: Full-Stack Developer
-Focus: Clean Code | Security | Design
-Learning: React & Spring Boot
-Email: bhagyarash2001@gmail.com
-Fun Fact: Tech + Art = Me 💜
-</pre>
+### 🧠 About Me
+- 🌱 Currently learning **React & Spring Boot**
+- 💬 Ask me about **Java, Postman**
+- 📫 Reach me at **bhagyarash2001@gmail.com**
+- ⚡ Fun fact: I love blending technology and art, and I never get bored staying home 💜
 
-<!-- SOCIAL -->
-<h3 style="color:#39FF14;">$ ls socials/</h3>
-<p>
+---
+
+<h3 style="color:#39FF14;">🔗 Connect with me</h3>
+<p align="left">
   <a href="https://linkedin.com/in/rashdiwsl">
-    <img src="https://img.shields.io/badge/LinkedIn-connected-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
   <a href="https://www.instagram.com/rashmi_diw">
-    <img src="https://img.shields.io/badge/Instagram-following-39FF14?style=for-the-badge&logo=instagram&logoColor=black" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
   </a>
 </p>
 
-<!-- SKILLS -->
-<h3 style="color:#39FF14;">$ tree skills/</h3>
-<pre style="background-color:#000000; color:#39FF14; padding:12px; border-radius:10px;">
-skills/
-├── languages
-│   ├── Java
-│   ├── Python
-│   ├── C++
-│   ├── JavaScript
-│   └── Prolog
-├── frameworks
-│   ├── React
-│   └── Spring Boot
-├── tools
-│   ├── Git
-│   ├── Docker
-│   ├── Postman
-│   └── AWS
-└── design
-    ├── Figma
-    └── Photoshop
-</pre>
+---
 
-<!-- STATS -->
-<h3 style="color:#39FF14;">$ stats --github</h3>
+<h3 style="color:#39FF14;">💻 Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,r" />
+  <img src="https://img.shields.io/badge/Prolog-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge" />
+</p>
+
+<h3 style="color:#39FF14;">🧩 Frameworks & Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,postman,docker" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge" />
+</p>
+
+<h3 style="color:#39FF14;">🛠 Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,kaggle,vscode,idea,aws" />
+  <img src="https://img.shields.io/badge/Cisco%20PT-0066CC?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rashdiwsl&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rashdiwsl&theme=github_dark&show_icons=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashdiwsl&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
@@ -71,10 +66,4 @@ skills/
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiwsl&theme=github-dark&hide_border=true" />
 </p>
 
-<!-- FOOTER -->
-<pre style="background-color:#000000; color:#39FF14; padding:10px; border-radius:10px; text-align:center;">
-[root@rashmi ~]$ logout
-Connection closed.
-</pre>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" />
