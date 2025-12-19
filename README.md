@@ -32,23 +32,26 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,sql,prolog,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,c++,html,css,javascript,mysql,r" />
+  <img src="https://img.shields.io/badge/Prolog-339933?style=for-the-badge&logo=prolog&logoColor=white" />
 </p>
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=springboot,react,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=react,postman,docker" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 <h3 align="left">Tools & Platforms:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,kaggle,vscode,intellij,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,kaggle,vscode,idea,aws" />
 </p>
 
-<h3 align="left">Other Skills:</h3>
+<h3 align="left">UI/UX & Design Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" /> <!-- You can use Figma for UI/UX design -->
-  <!-- Other skills like networking, cybersecurity, design patterns can be written as text if no icons exist -->
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere" />
+  <img src="https://img.shields.io/badge/Photopea-000000?style=for-the-badge&logo=photopea&logoColor=white" />
+</p>
   <br>Software Design Patterns – Adapter, Decorator, Facade, Proxy
   <br>Networking & Cybersecurity Fundamentals
   <br>Data Analysis & Big Data
