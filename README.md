@@ -62,12 +62,12 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 
 ### GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashdiwsl&layout=compact&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rashdiwsl&theme=github_dark&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashdiw&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rashdiw&theme=github_dark&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiwsl&theme=github-dark&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiw&theme=github-dark&hide_border=true" />
 </p>
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; color:#FFD700;">
   Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty. ☕💫
