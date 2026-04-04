@@ -15,13 +15,17 @@
 Status: ██████████ 100% Coding
 </pre>
 
+---
+
 <h3 style="color:#39FF14;">About Me</h3>
 <pre style="background:#0D1117; color:#A9FF9C; padding:12px; border-radius:12px;">
-Currently learning: React & Spring Boot
-Ask me about: Java
+Currently learning: React, Spring Boot & MERN Stack
+Ask me about: Java, Full-Stack Development
 Email: bhagyarash2001@gmail.com
 Fun fact: I love blending technology and art, and I never get bored staying home
 </pre>
+
+---
 
 <h3 style="color:#39FF14;">Connect with me</h3>
 <p align="left">
@@ -41,16 +45,30 @@ Fun fact: I love blending technology and art, and I never get bored staying home
   <img src="https://img.shields.io/badge/Prolog-339933?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge" />
 </p>
+
+---
+
 <h3 style="color:#39FF14;">Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
+---
+
 <h3 style="color:#39FF14;">Frameworks & Libraries</h3>
+
+<h4 style="color:#A9FF9C;">MERN Stack</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+<h4 style="color:#A9FF9C;">Other Technologies</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=react,postman,docker" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge" />
 </p>
+
+---
 
 <h3 style="color:#39FF14;">Tools & Platforms</h3>
 <p>
@@ -69,9 +87,11 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashdiwsl&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:18px; color:#FFD700;">
   Behind every successful girl in tech is a screen full of tabs, a heart full of dreams, and a coffee mug that’s never empty. ☕💫
 </p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer&animation=glitch&fontColor=FFFFFF&fontSize=18&" />
