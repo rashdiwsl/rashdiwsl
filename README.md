@@ -24,7 +24,6 @@ Ask me about: Java, Full-Stack Development
 Email: bhagyarash2001@gmail.com
 Fun fact: I love blending technology and art, and I never get bored staying home
 </pre>
-
 ---
 
 <h3 style="color:#39FF14;">Connect with me</h3>
