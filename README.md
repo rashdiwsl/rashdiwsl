@@ -22,6 +22,7 @@ Status: ██████████ 100% Coding
 Currently learning: React, Spring Boot & MERN Stack
 Ask me about: Java, Full-Stack Development
 Email: bhagyarash2001@gmail.com
+Off the keyboard: Art, deep thoughts & people who are real with you ☕
 Fun fact: I love blending technology and art, and I never get bored staying home
 </pre>
 ---
