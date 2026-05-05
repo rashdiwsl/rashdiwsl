@@ -50,6 +50,7 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 <h3 style="color:#39FF14;">Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 ---
