@@ -29,7 +29,7 @@ Fun fact: I love blending technology and art, and I never get bored staying home
 
 <h3 style="color:#39FF14;">Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rashdiwsl">
+  <a href="https://www.linkedin.com/in/rashmi-rathnayaka2001">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
   <a href="https://www.instagram.com/rashmi_diw">
